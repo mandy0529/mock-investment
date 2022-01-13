@@ -1,7 +1,8 @@
 import React from 'react';
+import {NewsWrapper} from '../../styles/home/news';
 
 function News() {
-  return <div>home stock news</div>;
+  return <NewsWrapper>home stock news</NewsWrapper>;
 }
 
 export default News;

@@ -1,7 +1,8 @@
 import React from 'react';
+import {HeroWrapper} from '../../styles/home/hero';
 
 function Hero() {
-  return <div>home hero</div>;
+  return <HeroWrapper>home hero</HeroWrapper>;
 }
 
 export default Hero;

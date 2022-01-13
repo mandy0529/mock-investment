@@ -1,6 +1,6 @@
 import React from 'react';
 import {Link} from 'react-router-dom';
-import {NavbarWrapper} from '../../styles/navbar';
+import {NavbarWrapper} from '../../styles/home/navbar';
 import {navbarList} from '../../utils/helper';
 
 function Navbar() {
