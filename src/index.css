@@ -127,7 +127,7 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   cursor: default;
-  background-color: var(--color-main);
+  background-color: var(--color-black);
   color: var(--color-white);
 }
 
@@ -153,8 +153,9 @@ button {
 /*  ROOT ------------------- ROOT */
 
 :root {
-  --color-black: #263874;
-  --color-light-black: #32363f;
+  --color-black: #212429;
+  --color-middle-black: #343a40;
+  --color-light-black: #495057;
   --color-white: #fffffd;
   --color-blue: #37346e;
   --color-orange: #eb9a5b;
